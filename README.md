@@ -44,7 +44,7 @@ management app that enables users to:
 
 -  **Add Books**: Insert new books with title, author, publication year, and reading status
 -  **Edit Books**: Update book information
--  **Delete Books**: Remove books from bookshelf.
+-  **Delete Books**: Remove books from bookshelf
 -  **Move Between Shelves**: Toggle reading status (finished/unfinished)
 -  **Search Function**: Find books by title
 

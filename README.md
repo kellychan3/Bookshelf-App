@@ -2,11 +2,15 @@
 
 ## Table of Contents
 
+-  [Project Preview](#project-preview)
 -  [Project Overview](#project-overview)
 -  [Objectives](#objectives)
 -  [Features](#features)
 -  [Tech Stack](#tech-stack)
 -  [Installation & Usage](#installation--usage)
+
+## Project Preview
+<img width="840" height="811" alt="image" src="https://github.com/user-attachments/assets/5fe778ae-e677-4d53-a2fe-8d3419a7625e" />
 
 ## Project Overview
 

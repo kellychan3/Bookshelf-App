@@ -10,6 +10,7 @@
 -  [Installation & Usage](#installation--usage)
 
 ## Project Preview
+Demo: https://kellychan3.github.io/Bookshelf-App/
 <img width="840" height="811" alt="image" src="https://github.com/user-attachments/assets/5fe778ae-e677-4d53-a2fe-8d3419a7625e" />
 
 ## Project Overview
